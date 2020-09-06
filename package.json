@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/simpleblocks/content-queries/issues"
   },
-  "homepage": "https://github.com/simpleblocks/content-queries#readme"
+  "homepage": "https://github.com/simpleblocks/content-queries#readme",
+  "dependencies": {
+    "@apollo/client": "^3.1.4"
+  }
 }
